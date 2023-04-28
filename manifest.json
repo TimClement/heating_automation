@@ -1,0 +1,12 @@
+{
+  "domain": "heating_automation",
+  "name": "Heating automation",
+  "documentation": "",
+  "dependencies": ["wiser", "aquarea"],
+  "version": "0.0.1",
+  "config_flow": true,
+  "issue_tracker": "",
+  "codeowners": [],
+  "requirements": [],
+  "integration_type": "hub"
+}
